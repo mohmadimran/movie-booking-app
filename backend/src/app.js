@@ -5,7 +5,7 @@ const routes = require("./routes/index")
 const app = express();
 
 const allowedOrigins = [
-  'https://movie-ticket-booking-flax.vercel.app/',
+  'https://frontend-mauve-two-61.vercel.app/',
   'http://localhost:5173'
 ];
 
